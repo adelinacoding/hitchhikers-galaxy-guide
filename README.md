@@ -1,80 +1,88 @@
-# 🪐 hitchhikersgalaxy.guide
+# 🪐 Hitchhiker's Galaxy Guide
 
-**Don't Panic.** This is an AI-powered, entirely generative website version of *The Hitchhiker's Guide to the Galaxy*.
+A modern AI-powered space exploration platform that creates an interactive way to discover planets, galaxies, and cosmic knowledge.
 
-![Homepage hero — DON'T PANIC](https://raw.githubusercontent.com/lacymorrow/hitchhikersgalaxy.guide/HEAD/docs/images/screenshot-hero.png)
+Inspired by the idea of an intelligent digital guide, this project explores how artificial intelligence can improve content discovery and create dynamic user experiences.
 
-Every page is born when you ask for it — just like the original Guide (minus the sarcasm filter). It's not a static site. It's not a wiki. It's the Guide, reimagined by a mildly confused neural network with access to far too much cosmic trivia.
+## 🌌 About The Project
 
-## What is this?
+Hitchhiker's Galaxy Guide is a generative knowledge platform designed to provide users with engaging information about the universe.
 
-A living, breathing, constantly mutating Guide to everything in the galaxy (and several things outside it).  
-Built for web. Powered by AI. Fueled by improbability.
+Instead of browsing static content, users can explore space-related topics, discover new information, and interact with dynamically generated experiences.
 
-You search — it generates.  
-Want to know about Vogon poetry? It has *opinions*.  
-Curious about towels? It's got you covered.
+The project focuses on combining modern web development principles with intelligent automation to create a scalable and engaging digital product.
 
-## Screenshots
+## ✨ Features
 
-| Homepage | Popular Entries |
-|----------|-----------------|
-| ![Homepage with recent entries][img-homepage] | ![Popular entries page][img-popular] |
+- 🌍 Interactive space exploration experience
+- 🔎 Dynamic search and content discovery
+- 🤖 AI-assisted content generation
+- 📚 Educational knowledge experience
+- ⚡ Fast and responsive user interface
+- 📱 Optimized experience across devices
+- 🔐 Scalable and maintainable architecture
 
-| Entry Detail | Mobile |
-|--------------|--------|
-| ![Entry detail view][img-entry] | ![Mobile view][img-mobile] |
+## 🛠️ Built With
 
-[img-homepage]: https://raw.githubusercontent.com/lacymorrow/hitchhikersgalaxy.guide/HEAD/docs/images/screenshot-homepage.png
-[img-popular]: https://raw.githubusercontent.com/lacymorrow/hitchhikersgalaxy.guide/HEAD/docs/images/screenshot-popular.png
-[img-entry]: https://raw.githubusercontent.com/lacymorrow/hitchhikersgalaxy.guide/HEAD/docs/images/screenshot-entry.png
-[img-mobile]: https://raw.githubusercontent.com/lacymorrow/hitchhikersgalaxy.guide/HEAD/docs/images/screenshot-mobile.png
+- React.js
+- Next.js
+- TypeScript
+- Node.js
+- REST APIs
+- AI Integration
+- Modern UI Architecture
 
-## Features
+## 💡 Engineering Focus
 
-- 🌌 Fully generative content — no static pages, ever  
-- 🤖 Uses AI to emulate the tone and chaos of the original Guide  
-- 🧠 React + Next.js frontend with API-powered entries  
-- 🔍 Search to create entries — or just type something weird  
-- 🫠 Occasionally coherent. Frequently absurd.
+This project focuses on:
 
-## Built With
+- Component-based frontend architecture
+- Clean and reusable code structure
+- Performance optimization
+- API integration
+- User experience improvements
+- AI-assisted workflows
+- Scalable application design
 
-- Next.js  
-- AI (GPT-style models)  
-- Curiosity and possibly a little tea  
+## 🚀 Getting Started
 
-## 🚀 Live Site
-
-👉 [hitchhikersgalaxy.guide](https://hitchhikersgalaxy.guide)
-
-Try searching for:
-- *Vogon Poetry*
-- *42*
-- *Pan Galactic Gargle Blaster*
-- *The best way to survive a Ravenous Bugblatter Beast of Traal*
-
-Each search becomes a new, permanent Guide entry. Reality is handcrafted on demand.
-
-## 🛠️ Dev Setup
-
-Wanna make your own improbability-powered encyclopedia?
+Clone the repository:
 
 ```bash
-git clone https://github.com/lacymorrow/hitchhikersgalaxy.guide.git
-cd hitchhikersgalaxy.guide
+git clone https://github.com/adelinacoding/hitchhikers-galaxy-guide.git
+```
+
+Install dependencies:
+
+```bash
 npm install
+```
+
+Run the project:
+
+```bash
 npm run dev
 ```
 
-You'll need an OpenAI API key in your .env.local:
+## 🌱 Future Improvements
 
-`OPENAI_API_KEY=your_key_here`
+- Advanced AI assistant features
+- User personalization
+- More interactive galaxy exploration
+- Improved recommendation system
+- Additional data integrations
 
-## Contributing
+## 👩‍💻 Author
 
-Fork it, break it, add your own absurdities. PRs welcome from humans, hyperintelligent pan-dimensional beings, and polite androids.
+**Adelina Hakani**
 
-## License
+Senior Full-Stack Engineer passionate about building scalable web platforms, modern user experiences, and AI-assisted digital solutions.
 
-MIT — because restricting galactic knowledge is just rude.
+GitHub: https://github.com/adelinacoding
+
+LinkedIn: https://linkedin.com/in/adelinahakani
+
+
+## 📄 License
+
+This project is open source and available for learning and collaboration.
